@@ -1,4 +1,10 @@
 # PROYECTO FINAL INF122 
-DESCRIPCION
-npm install
-npm start
+
+* para instalar dependencias
+  ```sh
+  npm install
+  ```
+* para levantar el proyecto
+  ```sh
+  npm start
+  ``` 
