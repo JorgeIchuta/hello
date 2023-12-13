@@ -1,1 +1,4 @@
-# hello
+# PROYECTO FINAL INF122 
+DESCRIPCION
+npm install
+npm start
